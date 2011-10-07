@@ -1,0 +1,7 @@
+name: noTNT
+version: 0.0.1
+main: ru.tairesh.bukkit.noTNT
+permissions:
+    notnt.tnt-allow:
+        description: Allow using TNT.
+        default: op
